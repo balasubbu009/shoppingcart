@@ -6,7 +6,7 @@
 	<artifactId>ShoppingCartExample</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
-	<name>ShoppingCartExample Maven Webapp</name>
+	<name>ShoppingCartExample2 Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
 	<dependencies>
