@@ -31,6 +31,7 @@ public class MyDBAuthenticationService implements UserDetailsService {
         }
  
         // EMPLOYEE,MANAGER,..
+        // Testing
         String role = account.getUserRole();
  
         List<GrantedAuthority> grantList = new ArrayList<GrantedAuthority>();
